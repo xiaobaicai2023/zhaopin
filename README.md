@@ -33,6 +33,15 @@ Pc端 vue3.0+elementUi
 ![04](https://github.com/user-attachments/assets/3f4fb549-ec8d-493b-9594-49e38f755d52)
 
 # （3）PC端
+![15](https://github.com/user-attachments/assets/fa36071d-6a24-4774-88a2-0b8b2c6fe631)
+![16](https://github.com/user-attachments/assets/7cdf5b53-493a-4914-8b4f-dc0f6ed226bf)
+![17](https://github.com/user-attachments/assets/13c2b065-ff6a-47d5-8fa0-a82380b94012)
+![18](https://github.com/user-attachments/assets/913164f9-885a-4674-8667-ac9bde416736)
+![19](https://github.com/user-attachments/assets/ad9bc867-40ec-433f-93f6-e99bf245eb60)
+
+
+
+
 
 
 # （4）管理后台

@@ -55,7 +55,13 @@ Pc端 vue3.0+elementUi
 ![11](https://github.com/user-attachments/assets/ee50cdbf-1e2c-40cd-bdbc-252d72a4b266)
 ![12](https://github.com/user-attachments/assets/6cd1d402-0ee8-4e7a-95d3-a06ff0284eca)
 ![13](https://github.com/user-attachments/assets/d1eedc8f-1b4b-4654-8ca4-6cd614c5f4b7)
-![xiaomage](https://github.com/user-attachments/assets/657c7c61-b673-4c3e-a0f0-cbf95f6f69a6)
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/f5cbdacd-1a87-440e-bcb9-dd5c079043de)
+
 
 
 

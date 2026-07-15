@@ -25,19 +25,21 @@ Pc端 vue3.0+elementUi
 # 软件截图
 
 # （1）用户端
-![01](https://github.com/user-attachments/assets/fb879123-1c76-4036-ab02-5e6bd9cc1ee9)
-![02](https://github.com/user-attachments/assets/d5c1761b-31b3-441e-b99b-894cba1f7023)
+<img width="1718" height="732" alt="01" src="https://github.com/user-attachments/assets/6243e6f4-24c1-45b0-9caf-c2752da667be" />
+<img width="1672" height="717" alt="02" src="https://github.com/user-attachments/assets/73282181-859c-4b8b-9695-38de43618f6e" />
+
 
 # （2）企业端
-![03](https://github.com/user-attachments/assets/4f61e64b-b5f0-4892-beba-0e640c2a85a0)
-![04](https://github.com/user-attachments/assets/3f4fb549-ec8d-493b-9594-49e38f755d52)
+<img width="1856" height="666" alt="03" src="https://github.com/user-attachments/assets/d72dc964-24c3-45c5-a3bd-71d451e393f6" />
+<img width="1811" height="654" alt="04" src="https://github.com/user-attachments/assets/45454f17-d32f-487e-9b02-571dec7aecaf" />
+
 
 # （3）PC端
-![15](https://github.com/user-attachments/assets/fa36071d-6a24-4774-88a2-0b8b2c6fe631)
-![16](https://github.com/user-attachments/assets/7cdf5b53-493a-4914-8b4f-dc0f6ed226bf)
-![17](https://github.com/user-attachments/assets/13c2b065-ff6a-47d5-8fa0-a82380b94012)
-![18](https://github.com/user-attachments/assets/913164f9-885a-4674-8667-ac9bde416736)
-![19](https://github.com/user-attachments/assets/ad9bc867-40ec-433f-93f6-e99bf245eb60)
+<img width="1764" height="953" alt="06" src="https://github.com/user-attachments/assets/343e614f-9255-45b1-8ba1-40940f78d479" />
+<img width="1800" height="933" alt="07" src="https://github.com/user-attachments/assets/f64323a0-6a45-4d1b-95ae-406605fd5b24" />
+<img width="1681" height="942" alt="08" src="https://github.com/user-attachments/assets/88dd603a-b70d-43f8-851f-76386ec62b60" />
+<img width="1909" height="938" alt="09" src="https://github.com/user-attachments/assets/8bc36b80-2d87-4634-8d0e-5dde5bc6d24c" />
+<img width="1917" height="939" alt="11" src="https://github.com/user-attachments/assets/0919dd76-bb35-48d7-935d-975158c020df" />
 
 
 
@@ -46,15 +48,7 @@ Pc端 vue3.0+elementUi
 
 # （4）管理后台
 
-![05](https://github.com/user-attachments/assets/bdc48313-58a4-40ab-bb2f-87407185fced)
-![06](https://github.com/user-attachments/assets/001cc8c1-84a6-428f-9220-8181dc4a3eca)
-![07](https://github.com/user-attachments/assets/c10f60ef-fdc2-4d8a-a0a0-341e106a4256)
-![08](https://github.com/user-attachments/assets/ac941131-c5fa-4e2c-add6-85585a13d6c7)
-![09](https://github.com/user-attachments/assets/b8533806-6143-4bb8-8d32-5c2234b9f617)
-![10](https://github.com/user-attachments/assets/da4c44fb-13ca-43f9-8221-fef39371a0f0)
-![11](https://github.com/user-attachments/assets/ee50cdbf-1e2c-40cd-bdbc-252d72a4b266)
-![12](https://github.com/user-attachments/assets/6cd1d402-0ee8-4e7a-95d3-a06ff0284eca)
-![13](https://github.com/user-attachments/assets/d1eedc8f-1b4b-4654-8ca4-6cd614c5f4b7)
+
 
 # 产品体验
 

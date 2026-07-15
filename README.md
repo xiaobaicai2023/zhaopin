@@ -39,14 +39,18 @@ Pc端 vue3.0+elementUi
 <img width="1800" height="933" alt="07" src="https://github.com/user-attachments/assets/f64323a0-6a45-4d1b-95ae-406605fd5b24" />
 <img width="1681" height="942" alt="08" src="https://github.com/user-attachments/assets/88dd603a-b70d-43f8-851f-76386ec62b60" />
 <img width="1909" height="938" alt="09" src="https://github.com/user-attachments/assets/8bc36b80-2d87-4634-8d0e-5dde5bc6d24c" />
-<img width="1917" height="939" alt="11" src="https://github.com/user-attachments/assets/0919dd76-bb35-48d7-935d-975158c020df" />
-
-
 
 
 
 
 # （4）管理后台
+<img width="1903" height="940" alt="10" src="https://github.com/user-attachments/assets/251db1a4-a2ee-44ae-9d96-a7acbb69cd0e" />
+<img width="1917" height="939" alt="11" src="https://github.com/user-attachments/assets/32d7fd62-9030-46a2-a389-fe4e80ca3037" />
+<img width="1916" height="941" alt="12" src="https://github.com/user-attachments/assets/ef4fb4d9-c3fb-49c2-a5d4-b1d461fb5312" />
+<img width="1912" height="939" alt="13" src="https://github.com/user-attachments/assets/5717152a-f120-4fa5-9428-b45eba9cfc0b" />
+<img width="1904" height="941" alt="14" src="https://github.com/user-attachments/assets/3095fc50-7125-4a7a-93ce-ea496a55ab22" />
+<img width="1913" height="887" alt="15" src="https://github.com/user-attachments/assets/c429efaf-0472-41d5-aebd-3b867cc011e7" />
+<img width="1912" height="891" alt="16" src="https://github.com/user-attachments/assets/b87f6e9b-3625-40e4-a536-c9a8a68e3e70" />
 
 
 
